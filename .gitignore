@@ -1,0 +1,6 @@
+*.exe
+*.o
+Makefile
+Madness
+Madness.pro.user
+moc_Win.cpp
